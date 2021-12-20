@@ -21,7 +21,7 @@ public class RouteManager : MonoBehaviour
 
     private IEnumerator WaitingForPlayers(int playerCount)
     {
-        ///..//
+        //..//
 
         initialized = true;
     }
